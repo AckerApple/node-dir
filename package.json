@@ -1,0 +1,23 @@
+{
+  "name": "node-dir",
+  "version": "0.0.0",
+  "description": "deprecated. renamed to path-reader",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "postinstall": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ackerapple/node-dir.git"
+  },
+  "keywords": [
+    "node-dir"
+  ],
+  "author": "Acker Apple",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ackerapple/node-dir/issues"
+  },
+  "homepage": "https://github.com/ackerapple/node-dir#readme"
+}

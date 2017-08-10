@@ -1,0 +1,1 @@
+throw 'node-dir has been renamed to path-reader'
